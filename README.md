@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 ## Intro
-- 🔭 I’m currently working on completely redesigning my personal site!
-- 🌱 I’m currently learning about terraform and Golang
+- 🔭 I’m currently working on completely redesigning my personal site as well as my own version of Catan!
+- 🌱 I’m currently learning about SQL and scripting!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Philadelphia Sports!
 - Experience: I started learning how to code when I was 14 years old
