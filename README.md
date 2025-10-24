@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 -->
 
 ## Intro
-- 🔭 I’m currently working on completely redesigning my personal site as well as my own version of Catan!
-- 🌱 I’m currently learning about SQL and APIs!
+- 🔭 I’m currently working on a machine learning prediction model to predict NFL offensive plays!
+- 🌱 I’m currently learning about C# and React!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Philadelphia Sports!
-- Experience: I started learning how to code when I was 14 years old
-- Future: I hope to eventually work on and learn about machine learning
+- Experience: I started learning how to code when I was 14 years old. 4+ years of classes and two 14 week paid internships
+- Future: I hope to be an asset on a team where I'm passionate about the work we do and the software we create
 
 ## Favorite Project
 I've worked on a lot of projects, but my favorite is definitely my OD scheduler.
